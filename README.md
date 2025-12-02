@@ -148,7 +148,7 @@ This confirms:
 # 🎨 **Transfer Robustness Heatmap (Insert Your File)**
 
 ```
-![](./transfer_robustness_heatmap.png)
+![./transfer_robustness_heatmap.png](https://github.com/ananyaananth29/ML-Security/blob/main/transfer_robustness_heatmap.png)
 ```
 
 ---
