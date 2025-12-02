@@ -147,10 +147,8 @@ This confirms:
 
 # 🎨 **Transfer Robustness Heatmap (Insert Your File)**
 
-Replace with your generated heatmap:
-
 ```
-![](transfer_robustness_heatmap.png)
+![](./transfer_robustness_heatmap.png)
 ```
 
 ---
