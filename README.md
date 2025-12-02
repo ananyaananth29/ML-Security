@@ -1,23 +1,3 @@
-entire project can be found here: https://drive.google.com/file/d/1MgvbYOx8GoWLlV-Rx82EzIXJ9bCqtJVQ/view?usp=sharing
-Below is a **clean, polished, copy-paste-ready README.md** for your GitHub repo.
-It includes:
-
-* Clear project overview
-* Threat model
-* Methods
-* Results tables
-* Embedded visualizations using image references
-* Transfer robustness matrix
-* Interpretation & conclusions
-
-I structured it like a research project README so it looks professional.
-
----
-
-# ✅ **COPY–PASTE THE CONTENT BELOW INTO YOUR `README.md`**
-
----
-
 # **Human-Aligned Adversarial Robustness: Combining Robust Features with PGD Training**
 
 This repository contains the implementation and analysis for my **Machine Learning Security Final Project**, where I investigate whether combining:
@@ -135,21 +115,21 @@ Robust+PGD|  77.59   |   45.30    |  71.34  |   19.39
 
 This confirms:
 
-> **Our model generalizes robust features better and is more secure in realistic black-box threat settings.**
+> **This model generalizes robust features better and is more secure in realistic black-box threat settings.**
 
 ---
 
 # 📈 **Clean vs Adversarial Accuracy Graph**
 
-*(Your actual graph file should replace this placeholder in the repo.)*
+![](https://github.com/ananyaananth29/ML-Security/blob/main/clean_vs_adversarial_accuracy.png)
 
 ---
 
-# 🎨 **Transfer Robustness Heatmap (Insert Your File)**
+# 🎨 **Transfer Robustness Heatmap**
 
-```
+
 ![./transfer_robustness_heatmap.png](https://github.com/ananyaananth29/ML-Security/blob/main/transfer_robustness_heatmap.png)
-```
+
 
 ---
 
@@ -196,3 +176,6 @@ The **Robust + PGD** model achieves exactly this:
 * **Best practical security across all baselines**
 
 🔥 **This model wins where it matters most: real-world adversarial security.** 🔥
+
+entire project can be found here: https://drive.google.com/file/d/1MgvbYOx8GoWLlV-Rx82EzIXJ9bCqtJVQ/view?usp=sharing
+
