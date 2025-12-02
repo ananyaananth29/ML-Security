@@ -105,8 +105,6 @@ PGDOnly   |  77.23   |   55.03    |  40.02  |   55.44
 Robust+PGD|  77.59   |   45.30    |  71.34  |   19.39
 ```
 
-### **Heatmap**
-
 ### **Interpretation**
 
 * **Robust+PGD has the strongest average transfer robustness of all models.**
