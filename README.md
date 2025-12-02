@@ -1,2 +1,1 @@
-# ML-Security
-Combine robust human-aligned features + PGD adversarial training. See if we get a model that is both secure and human-like.
+entire project can be found here: https://drive.google.com/file/d/1MgvbYOx8GoWLlV-Rx82EzIXJ9bCqtJVQ/view?usp=sharing
